@@ -1,0 +1,9 @@
+* xml-mop
+
+XML parsing "directly" into CLOS objects. Used by the Amazon ECS library.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/gonzojive/xml-mop.git |
+| commit  | 7cfb8d3                                      |
+| systems | xml-mop                                      |
+|---------+----------------------------------------------|
