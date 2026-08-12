@@ -7,4 +7,4 @@ XML parsing "directly" into CLOS objects. Used by the Amazon ECS library.
 | commit  | 7cfb8d3                                      |
 | systems | xml-mop                                      |
 |---------+----------------------------------------------|
- 
+  
